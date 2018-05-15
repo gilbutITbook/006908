@@ -1,11 +1,10 @@
 
-# Spark in Action book repository
-#### Current edition: Manning Early Access Program (MEAP)
+# 스파크를 다루는 기술(Spark in Action) 예제 코드
+#### 2018년 5월, 길벗출판사
 
-The MEAP publishing date is **2015.04.04.**  
-Manning's book forum: [https://forums.manning.com/forums/spark-in-action](https://forums.manning.com/forums/spark-in-action)
-
-The repo contains book listings organized by chapter and programming language (if applicable):
+예제에서 사용한 모든 데이터 파일과 스칼라, 자바, 파이썬 코드입니다.
+모든 예제는 스파크 버전 2.0에서 작성 및 테스트했습니다. 
+일부 예제는 스파크 버전 1.6.3과 2.0.2를 사용합니다.
 
 ```
 ch02
@@ -37,10 +36,4 @@ ch03
 
 ```
 
-We tried to organize the listings so that you have minimum distractions while going through the book.  
-We hope you'll find the content useful and that you'll have fun reading the book and going through examples.  
 
-As part of Manning's "in action" series, it's a hands-on, tutorial-style book.  
-
-Thank you,  
-[Petar Zečević](http://twitter.com/p_zecevic) and [Marko Bonaći](http://twitter.com/markobonaci)
